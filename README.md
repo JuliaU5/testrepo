@@ -8,4 +8,3 @@ edit on local repository
 2 more edits on remote repo
 and one more
 more and more
-test edit
